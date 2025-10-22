@@ -3,7 +3,7 @@
 I'm a Computer & Data Science student and data scientist in-the-making, with a strong passion for all things space related. Welcome to my Github! Here all my projects big and small live so you can personally check out my work. :)
 
 <picture>
-  <img width="1584" height="396" alt="Mariam Sudan Data Scientist (20+) 106 181 4585 mariammohamedsudan@gmail.com data; the sky's just the beginning" src="https://github.com/user-attachments/assets/9b43b974-02a4-4edc-9ed4-40a1473206d9" />
+  <img width="1084" height="396" alt="Mariam Sudan Data Scientist (20+) 106 181 4585 mariammohamedsudan@gmail.com data; the sky's just the beginning" src="https://github.com/user-attachments/assets/9b43b974-02a4-4edc-9ed4-40a1473206d9" />
 </picture>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-sudan-6086ba303/)
