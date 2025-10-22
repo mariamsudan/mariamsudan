@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello World! 👋
 
+I'm a Computer & Data Science student and data scientist in-the-making, with a strong passion for all things space related. Welcome to my Github! Here all my projects big and small live so you can personally check out my work. :)
+
+<picture>
+  <img src="C:\Users\Dell\Downloads\Mariam.png" align="center" alt="Mariam Sudan Data Scientist (20+) 106 181 4585 mariammohamedsudan@gmail.com data; the sky's just the beginning">
+</picture>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-sudan-6086ba303/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://mariam-sudan-portfolio-evo6qa0.gamma.site/)
 <!--
 **mariamsudan/mariamsudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
